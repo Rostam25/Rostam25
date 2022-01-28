@@ -4,7 +4,7 @@ I am currently a 2nd Year Computer Science student at Queen Mary University Of L
 
 I have brief experience with Java, Python, HTML, CSS, JavaScript & PHP. I am looking to develop my programming skills by working on more projects which I will be uploading on this platform.
 
-Toolbox
+Toolbox:
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src = 
 "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "python" width="50" height="50" /><img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" widht="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "CSS" width="50" height="50" />

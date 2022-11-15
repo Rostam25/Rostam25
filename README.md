@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Rostam Satarzai
 
-I am currently a 2nd Year Computer Science student at Queen Mary University Of London.
+I am currently a 3rd Year Computer Science student at Queen Mary University Of London.
 
-I have brief experience with Java, Python, HTML, CSS, JavaScript & PHP. I am looking to develop my programming skills by working on more projects which I will be uploading on this platform.
+I have brief experience with Java, Python, HTML, CSS, JavaScript & PHP. I am looking to develop my programming skills by working on more projects which I will be uploading on my github.
 
 Toolbox:
 

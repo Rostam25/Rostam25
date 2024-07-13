@@ -1,8 +1,8 @@
-### Hi there 👋, I am Rostam Satarzai
+### Hi there 👋,
 
-I am currently a 3rd Year Computer Science student at Queen Mary University Of London.
+Welcome to my Github! My name is Rostam and I'm a Graduate Business Analyst with experience in Software Engineering during my time studying Computer Science at Queen Mary University of London.
 
-I have brief experience with Java, Python, HTML, CSS, JavaScript & PHP. I am looking to develop my programming skills by working on more projects which I will be uploading on my github.
+I have experience with Java, React JS, Python, HTML, CSS, JavaScript & PHP. I am looking to develop my programming skills by working on more projects which I will be uploading on my github.
 
 Toolbox:
 

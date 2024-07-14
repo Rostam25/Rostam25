@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-Welcome to my Github! My name is Rostam and I'm a Graduate Business Analyst with experience in Software Engineering during my time studying Computer Science at Queen Mary University of London.
+Welcome to my Github! My name is Rostam and I'm a Graduate Business Analyst at Sky with experience in Software Engineering during my time studying Computer Science at Queen Mary University of London.
 
 I have experience with Java, React JS, Python, HTML, CSS, JavaScript & PHP. I am looking to develop my programming skills by working on more projects which I will be uploading on my github.
 

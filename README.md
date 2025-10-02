@@ -3,10 +3,10 @@
 I'm Rostam, a Product Owner at Sky with a background in Computer Science from Queen Mary University of London. I bring a blend of technical understanding and product thinking, shaped by hands-on experience working with software engineers and UX teams to deliver impactful digital solutions.
 
 My journey spans:
-Agile product development using SAFe 6.0
-Collaborating with cross-functional squads on Smart Home and sales journey features
-Translating complex requirements into dev-ready user stories
-Driving backlog refinement and sprint delivery with tools like Jira, Confluence, and Miro
+- Agile product development using SAFe 6.0
+- Collaborating with cross-functional squads on Smart Home and sales journey features
+- Translating complex requirements into dev-ready user stories
+- Driving backlog refinement and sprint delivery with tools like Jira, Confluence, and Miro
 
 Feel free to explore my projects and contributions, I’m always keen to learn, build, and improve.
 
